@@ -1,0 +1,42 @@
+/* 共通要素 -----------------*/
+
+/* フォント指定 */
+body{
+font-family: 'Dosis', sans-serif;
+    color: #666;
+    font-size: 16px;
+}
+
+
+
+
+/* header ---------------------- */
+header{
+    margin-top: 24px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+header h1{
+    font-family: 'Indie Flower', cursive;
+    font-size: 46px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer -------------------- */
+footer{
+    margin-bottom: 24px;
+    text-align: center;
+}

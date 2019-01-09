@@ -1,0 +1,20 @@
+/* 共通要素 -----------------*/
+
+/*フォント指定---------------*/
+
+body{
+    font-family: sans-serif;
+    color: aquamarine
+}
+p{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: auto
+}
+
+
+/* footer -------------------- */
+footer{
+    margin-bottom: 24px;
+    text-align: center;
+}
